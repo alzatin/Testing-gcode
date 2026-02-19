@@ -20,13 +20,14 @@
     },
     {
       "atomType": "Rectangle",
-      "x": 0.21533333333333332,
-      "y": 0.3439306358381503,
+      "x": 0.20740740740740743,
+      "y": 0.28530259365994237,
       "uniqueID": "id-579",
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 100
+          "ioValue": 100,
+          "currentEquation": "100"
         },
         {
           "name": "y length",
@@ -128,8 +129,8 @@
     },
     {
       "atomType": "Difference",
-      "x": 0.6429143314651722,
-      "y": 0.5028901734104047,
+      "x": 0.6444444444444445,
+      "y": 0.3659942363112392,
       "uniqueID": "id-606",
       "ioValues": [
         {
@@ -258,7 +259,8 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 6.35
+          "ioValue": 6.35,
+          "currentEquation": "6.35"
         },
         {
           "name": "Passes",
@@ -347,11 +349,6 @@
       "ap2Name": "Shape 4",
       "ap1ID": "id-631",
       "ap2ID": "id-601"
-    },
-    {
-      "ap2Name": "number or geometry",
-      "ap1ID": "id-680",
-      "ap2ID": "id-577"
     }
   ],
   "unitsKey": "MM",
