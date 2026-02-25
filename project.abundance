@@ -26,8 +26,7 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 100,
-          "currentEquation": "100"
+          "ioValue": 100
         },
         {
           "name": "y length",
@@ -259,8 +258,7 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 6.35,
-          "currentEquation": "6.35"
+          "ioValue": 6.35
         },
         {
           "name": "Passes",
