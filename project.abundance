@@ -52,17 +52,18 @@
     },
     {
       "atomType": "Rectangle",
-      "x": 0.134,
-      "y": 0.5028901734104047,
+      "x": 0.12640449438202248,
+      "y": 0.3314121037463977,
       "uniqueID": "id-587",
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 30
+          "ioValue": 70
         },
         {
           "name": "y length",
-          "ioValue": 30
+          "ioValue": 70,
+          "currentEquation": "70"
         }
       ]
     },
@@ -128,8 +129,8 @@
     },
     {
       "atomType": "Difference",
-      "x": 0.6867977528089887,
-      "y": 0.21613832853025935,
+      "x": 0.6832865168539326,
+      "y": 0.22478386167146974,
       "uniqueID": "id-606",
       "ioValues": [
         {
@@ -252,7 +253,7 @@
     {
       "atomType": "Gcode",
       "x": 0.8202247191011236,
-      "y": 0.46397694524495675,
+      "y": 0.4956772334293948,
       "uniqueID": "id-680",
       "ioValues": [
         {
