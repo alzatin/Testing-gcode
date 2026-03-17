@@ -62,8 +62,7 @@
         },
         {
           "name": "y length",
-          "ioValue": 70,
-          "currentEquation": "70"
+          "ioValue": 70
         }
       ]
     },
@@ -167,7 +166,8 @@
         },
         {
           "name": "height",
-          "ioValue": 10
+          "ioValue": 30,
+          "currentEquation": "30"
         }
       ]
     },
@@ -191,7 +191,8 @@
         },
         {
           "name": "zDist",
-          "ioValue": 13
+          "ioValue": 5,
+          "currentEquation": "5"
         }
       ]
     },
@@ -203,8 +204,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 13,
-          "currentEquation": "13"
+          "ioValue": 13
         }
       ]
     },
@@ -220,8 +220,7 @@
         },
         {
           "name": "height",
-          "ioValue": 20,
-          "currentEquation": "20"
+          "ioValue": 20
         }
       ]
     },
@@ -245,15 +244,14 @@
         },
         {
           "name": "zDist",
-          "ioValue": 10,
-          "currentEquation": "10"
+          "ioValue": 10
         }
       ]
     },
     {
       "atomType": "Gcode",
-      "x": 0.8202247191011236,
-      "y": 0.4956772334293948,
+      "x": 0.8146067415730337,
+      "y": 0.5043227665706052,
       "uniqueID": "id-680",
       "ioValues": [
         {
@@ -262,8 +260,8 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 7,
-          "currentEquation": "7"
+          "ioValue": 5,
+          "currentEquation": "5"
         },
         {
           "name": "Passes",
@@ -294,8 +292,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 8,
-          "currentEquation": "8"
+          "ioValue": 8
         }
       ]
     },
@@ -351,8 +348,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": 0,
-          "currentEquation": "0"
+          "ioValue": 0
         }
       ]
     }
