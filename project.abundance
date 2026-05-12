@@ -133,11 +133,11 @@
       "uniqueID": "id-606",
       "ioValues": [
         {
-          "name": "geometry1",
+          "name": "retain",
           "ioValue": "__GEOMETRY_INPUT__"
         },
         {
-          "name": "geometry2",
+          "name": "remove",
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ]
@@ -166,8 +166,7 @@
         },
         {
           "name": "height",
-          "ioValue": 30,
-          "currentEquation": "30"
+          "ioValue": 30
         }
       ]
     },
@@ -191,8 +190,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": 5,
-          "currentEquation": "5"
+          "ioValue": 5
         }
       ]
     },
@@ -260,8 +258,7 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 5,
-          "currentEquation": "5"
+          "ioValue": 5
         },
         {
           "name": "Passes",
@@ -319,11 +316,11 @@
       "uniqueID": "id-742",
       "ioValues": [
         {
-          "name": "geometry1",
+          "name": "retain",
           "ioValue": "__GEOMETRY_INPUT__"
         },
         {
-          "name": "geometry2",
+          "name": "remove",
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ]
@@ -360,7 +357,7 @@
       "ap2ID": "id-583"
     },
     {
-      "ap2Name": "geometry1",
+      "ap2Name": "retain",
       "ap1ID": "id-583",
       "ap2ID": "id-606"
     },
@@ -380,12 +377,12 @@
       "ap2ID": "id-601"
     },
     {
-      "ap2Name": "geometry2",
+      "ap2Name": "remove",
       "ap1ID": "id-601",
       "ap2ID": "id-606"
     },
     {
-      "ap2Name": "geometry1",
+      "ap2Name": "retain",
       "ap1ID": "id-606",
       "ap2ID": "id-742"
     },
@@ -435,7 +432,7 @@
       "ap2ID": "id-680"
     },
     {
-      "ap2Name": "geometry2",
+      "ap2Name": "remove",
       "ap1ID": "id-746",
       "ap2ID": "id-742"
     }
