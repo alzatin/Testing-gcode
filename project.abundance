@@ -128,8 +128,8 @@
     },
     {
       "atomType": "Difference",
-      "x": 0.6761904761904762,
-      "y": 0.2328358208955224,
+      "x": 0.672782874617737,
+      "y": 0.29721362229102166,
       "uniqueID": "id-606",
       "ioValues": [
         {
@@ -361,8 +361,7 @@
         },
         {
           "name": "y length",
-          "ioValue": 30,
-          "currentEquation": "30"
+          "ioValue": 30
         }
       ]
     },
