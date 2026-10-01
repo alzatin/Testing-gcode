@@ -2,7 +2,7 @@
 
 # Testing-gcode
 
-![](/project.svg)
+![](/project.png)
 
 
 
